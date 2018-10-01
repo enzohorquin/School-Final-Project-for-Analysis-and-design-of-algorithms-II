@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/iconos">
+        <file>fichaBlanca.png</file>
+        <file>fichaNegra.png</file>
+        <file>Fondo.png</file>
+        <file>Othello.png</file>
+        <file>othello13.png</file>
+    </qresource>
+</RCC>
